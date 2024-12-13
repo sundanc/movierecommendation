@@ -20,7 +20,7 @@ This is a simple movie recommendation system built with Streamlit. It allows use
 
 ## Installation
 
-To run this project locally, follow these steps:
+To run this project locally:
 
 ### 1. Clone the repository
 
